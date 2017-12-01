@@ -8,7 +8,7 @@ By default the message sound is changed, and call rings are muted because it's t
 
 
 Installation:
-Place the "SFXreplace" folder with all its contents in the same folder as "Steam.exe".
+Place the entire folder with all its contents in the same folder as "Steam.exe".
 Usually this will be "C:\Program Files (x86)\Steam\"
 
 Start with Windows:
